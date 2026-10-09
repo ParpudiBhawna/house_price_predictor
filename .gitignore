@@ -1,0 +1,8 @@
+.venv/
+.streamlit/secrets.toml
+__pycache__/
+train.csv
+test.csv
+sample_submission.csv
+test_ml.ipynb
+test_connection.py
